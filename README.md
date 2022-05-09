@@ -56,8 +56,8 @@ MATLAB data file containing the following variables:
 - [max_causalrobustness_W.mat](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/max_causalrobustness_W.mat):
 MATLAB data file containing the following variables:
   - W: complex matrix corresponding to the process matrix W^* in Eqs. (104) and (105) of the paper; this is the process matrix with highest causal robustness found by our see-saw search.
-  - Rs_W: value of the signalling robustness R_s(W^*) of the process matrix W^* written in variable W.
-  - Rc_W: value of the causal robustness R_s(W^*) of the process matrix W^* written in variable W.
+  - Rs_W: value of the signalling robustness R_s(W^* ) of the process matrix W^*  written in variable W.
+  - Rc_W: value of the causal robustness R_s(W^* ) of the process matrix W^*  written in variable W.
 
 
 
