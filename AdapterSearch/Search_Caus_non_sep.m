@@ -1,5 +1,5 @@
-%Program to find -- via a see-saw --a free adapter (in the maximal sense, i.e., legal free preserving) 
-%that maps A \prec B processes to a causally non-separable process
+%Program to find -- via a see-saw -- a legal and free-preserving adapter
+%that maps a fully-signalling A \prec B processe to a causally non-separable process
 
 %clear existing yalmip problems
 yalmip('clear');
@@ -90,7 +90,3 @@ for i=1:N
     end
         
 end
-
-
-        
-    
