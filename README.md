@@ -44,7 +44,7 @@ searches for the bipartite process matrix W of a certain given dimension that ha
 
 #### DATA FILES
 
-- [inconvertable_nonsep_W&Wocb.mat](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/inconvertable_nonsep_W&Wocb.mat):
+- [DataFiles/inconvertable_nonsep_W&Wocb.mat](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/DataFiles/inconvertable_nonsep_W&Wocb.mat):
 MATLAB data file containing the following variables:
   - W: complex matrix corresponding to the process matrix W^# in Eqs. (101) and (102) of the paper; example of a causally nonseparable process that cannot be converted into W^OCB from Eq. (89) and vice-versa.
   - Wocb: real matrix corresponding to the process matrix W^\text{OCB} in Eq. (89) of the paper.
@@ -53,7 +53,7 @@ MATLAB data file containing the following variables:
   - Rs_Wocb: value of the signalling robustness R_s(W^\text{OCB}) of the process matrix W^\text{OCB} written in variable Wocb.
   - Rc_Wocb: value of the causal robustness R_c(W^\text{OCB}) of the process matrix W^\text{OCB} written in variable Wocb.
 
-- [max_causalrobustness_W.mat](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/max_causalrobustness_W.mat):
+- [DataFiles/max_causalrobustness_W.mat](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/DataFiles/max_causalrobustness_W.mat):
 MATLAB data file containing the following variables:
   - W: complex matrix corresponding to the process matrix W^* in Eqs. (104) and (105) of the paper; this is the process matrix with highest causal robustness found by our see-saw search.
   - Rs_W: value of the signalling robustness R_s(W^* ) of the process matrix W^*  written in variable W.
