@@ -1,7 +1,7 @@
 ## Code to accompany: *[Resource theory of causal connection](https://arxiv.org/abs/2110.03233)*
 #### Simon Milz, Jessica Bavaresco, and Giulio Chiribella
 
-This is a repository for the code used in the numerical results of the article "*Resource theory of causal connection*, Simon Milz, Jessica Bavaresco, and Giulio Chiribella, 
+This is a repository for the code used in the article "*Resource theory of causal connection*, Simon Milz, Jessica Bavaresco, and Giulio Chiribella, 
 [arXiv:2110.03233 [quant-ph]](https://arxiv.org/abs/2110.03233)".
 
 All code is written in MATLAB and requires:
