@@ -19,7 +19,7 @@ This repository consists of the following:
 - [SampleProcessMatrix.m](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/SampleProcessMatrix.m):
 given the subspace dimensions, this algorithm samples a valid bipartite process matrix according to the method described in Sec. 6.2 of the paper.
 
-- [adaptor_feasibility.m](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/adaptor_feasibility.m):
+- [adapter_feasibility.m](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/adaptor_feasibility.m):
 given two process matrices, Win and Wout, this feasibility SDP checks whether or not there exists a free adapter Y that can transform Win into Wout.
 
 - [causalrobustness_primal.m](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/causalrobustness_primal.m):
