@@ -10,7 +10,7 @@ All code is written in MATLAB and requires:
 - [SCS](https://www.cvxgrp.org/scs/index.html) - a numerical optimization package for solving large-scale convex cone problems
 - [QETLAB](http://www.qetlab.com/) - a free MATLAB toolbox for quantum entanglement theory
 
-For the code in the folder [AdapterSearch](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/AdapterSearch) see extra requirements below.
+For the code in the folder [AdapterSearch/](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/AdapterSearch) see extra requirements below.
 
 This repository consists of the following:
 
