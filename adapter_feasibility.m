@@ -1,4 +1,4 @@
-function Y = adaptor_feasibility(Win,Wout,din,dout)
+function Y = adapter_feasibility(Win,Wout,din,dout)
 % Win in Ai'Ao'Bi'Bo' (Hilbert space order)
 % Wout in Ai Ao Bi Bo
 % Y in Ai' Ai Ao Ao' Bi' Bi Bo Bo'
