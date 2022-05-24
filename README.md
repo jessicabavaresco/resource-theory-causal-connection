@@ -66,7 +66,7 @@ MATLAB data file containing the following variables, which were obtained using [
   - Rc_W: value of the causal robustness R_c(W^* ) of the process matrix W^*  written in variable W.
 
 - [DataFiles/LFPadapter_ordered2causalnonsep.mat](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/DataFiles/LFPadapter_ordered2causalnonsep.mat): MATLAB data file containing the following variables, which were obtained using [Search_Caus_non_sep.m](https://github.com/jessicabavaresco/resource-theory-causal-connection/blob/main/Search_Caus_non_sep.m):
-  - W_ordered: complex matrix corresponding to an ordered, fully one-way signalling process in Eq. (85) of the paper.
-  - W_nonsep: complex matrix corresponding to a causally nonseparable process.
-  - Y: complex matrix corresponding to the legal and free-preserving adapter that can convert W_ordered into W_nonsep, therefore creating causal nonseparability.
+  - Win: complex matrix corresponding to an ordered, fully one-way signalling process in Eq. (85) of the paper.
+  - Wout: complex matrix corresponding to a causally nonseparable process.
+  - Y: complex matrix corresponding to the legal and free-preserving adapter that can convert Win into Wout, therefore creating causal nonseparability.
 
